@@ -39,7 +39,7 @@ Las capturas corresponden a la interfaz implementada, no a una demostración de 
 **Carlos Padilla · Fundador de Karpeztec**  
 [ingpadceo@karpeztec.com](mailto:ingpadceo@karpeztec.com) · [LinkedIn](https://www.linkedin.com/in/carlos-padilla-6a4a4a162/)
 
-Para conocer Bloom, solicita una presentación por el correo empresarial. El acceso operativo se facilita directamente a usuarios autorizados.
+Para conocer Bloom, solicita una presentación por el correo empresarial. [Acceso para usuarios de Bloom](https://app.bloomsalonypeluqueria.com/login?next=%2F).
 
 ### English overview
 
