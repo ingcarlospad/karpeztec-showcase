@@ -1,4 +1,6 @@
-# Bloom · Gestión de SPA y peluquería
+# Bloom · Caso de cliente: SPA y peluquería
+
+**Bloom es la marca de un cliente, no una marca propia ni el producto insignia de Karpeztec.** Esta ficha presenta una aplicación desarrollada para ese negocio y en funcionamiento. Nuestra oferta propia para otros negocios es [Microapps Karpeztec](microapps.md).
 
 [← Portafolio](../README.md)
 
@@ -8,7 +10,7 @@
 
 Animación ilustrativa de 32 segundos: agenda, servicios, stock y límites del asistente. Datos ficticios y respuestas preparadas, sin ejecutar Claude. No es una grabación de la aplicación de producción; las capturas reales del piloto local se distinguen por separado en esta ficha.
 
-**Estado:** software utilizado en un salón real, según confirmación del fundador. La integración de Claude es un piloto local, pendiente de validación real y despliegue.
+**Estado:** software utilizado en un salón real, según confirmación de Carlos Padilla. La integración de Claude es un piloto local, pendiente de validación real y despliegue.
 
 ## Problema y solución
 
@@ -29,7 +31,7 @@ Stack: Next.js 14, React, TypeScript y Tailwind; FastAPI y SQLite. El código, l
 
 El personal organiza las citas y registra los servicios realizados. Las ventas de productos y los abonos quedan en Tienda; los gastos y las comisiones se revisan junto al balance diario y mensual. Esta es una descripción de funciones del producto, no una medición de ahorro ni una demostración de resultados comerciales.
 
-**Uso actual:** un salón real, confirmado por Carlos Padilla. No se ha publicado una cifra de ingresos, usuarios activos ni licencias pagadas. **Expansión propuesta:** adaptar Bloom a salones pequeños y barberías y evaluar ofertas por negocio y por varias sedes. Precios y versión para varios negocios pendientes.
+**Uso actual:** un salón real, confirmado por Carlos Padilla. No se ha publicado una cifra de ingresos, usuarios activos ni licencias pagadas. **Oferta propia:** Microapps Karpeztec, con identidad y alcance acordados para cada negocio. Se preparan Single y Enterprise; no se ofrece la marca del cliente ni se presume una licencia de su producto.
 
 **Desarrollador:** Karpeztec, Carlos Padilla, Cali, Colombia. Operaciones desde marzo de 2025. Inscripción de Karpeztec S.A.S. en preparación; matrícula y constitución legal pendientes. [Web corporativa](https://karpeztec.com/).
 
