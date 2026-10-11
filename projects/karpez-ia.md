@@ -2,6 +2,12 @@
 
 [← Portafolio](../README.md)
 
+## Recorrido animado
+
+[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4) · [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif)
+
+Animación conceptual de 32 segundos: elegir un modo, proporcionar contexto ficticio, revisar una respuesta y proponer una herramienta. Respuestas preparadas e interfaz ilustrativa; no ejecuta modelos ni lee archivos del usuario y no acredita adaptadores validados.
+
 **Estado: en desarrollo.** Proyecto orientado a trabajar con modelos locales y adaptar proveedores externos. No se presenta como un modelo fundacional propio ni como un producto comercial terminado.
 
 ## Enfoque

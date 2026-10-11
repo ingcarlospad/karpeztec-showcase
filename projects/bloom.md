@@ -2,6 +2,12 @@
 
 [← Portafolio](../README.md)
 
+## Recorrido animado
+
+[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4) · [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif)
+
+Animación ilustrativa de 32 segundos: agenda, servicios, stock y límites del asistente. Datos ficticios y respuestas preparadas, sin ejecutar Claude. No es una grabación de la aplicación de producción; las capturas reales del piloto local se distinguen por separado en esta ficha.
+
 **Estado:** software utilizado en un salón real, según confirmación del fundador. La integración de Claude es un piloto local, pendiente de validación real y despliegue.
 
 ## Problema y solución
@@ -18,6 +24,14 @@ La operación de un salón combina citas, servicios, cobros, inventario, gastos 
 | Administración | Usuarios, permisos y auditoría |
 
 Stack: Next.js 14, React, TypeScript y Tailwind; FastAPI y SQLite. El código, los registros operativos y la infraestructura del negocio no forman parte de esta publicación.
+
+## Una jornada de trabajo con Bloom
+
+El personal organiza las citas y registra los servicios realizados. Las ventas de productos y los abonos quedan en Tienda; los gastos y las comisiones se revisan junto al balance diario y mensual. Esta es una descripción de funciones del producto, no una medición de ahorro ni una demostración de resultados comerciales.
+
+**Uso actual:** un salón real, confirmado por Carlos Padilla. No se ha publicado una cifra de ingresos, usuarios activos ni licencias pagadas. **Expansión propuesta:** adaptar Bloom a salones pequeños y barberías y evaluar ofertas por negocio y por varias sedes. Precios y versión para varios negocios pendientes.
+
+**Desarrollador:** Karpeztec, Carlos Padilla, Cali, Colombia. Operaciones desde marzo de 2025. Inscripción de Karpeztec S.A.S. en preparación; matrícula y constitución legal pendientes. [Web corporativa](https://karpeztec.com/).
 
 ## Piloto de asistente con Claude
 
