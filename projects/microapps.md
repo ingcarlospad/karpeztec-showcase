@@ -1,4 +1,4 @@
-# Microapps Karpeztec · Aplicaciones adaptables
+# Software de gestión Karpeztec · Aplicaciones adaptables
 
 [← Portafolio](../README.md) · [Oferta en la web](https://karpeztec.com/#microapps)
 

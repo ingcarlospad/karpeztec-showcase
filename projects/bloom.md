@@ -1,6 +1,6 @@
 # Bloom · Producto desarrollado por Karpeztec, en operación
 
-**Bloom es un producto desarrollado por Karpeztec y en operación para un cliente.** Bloom es la marca de ese negocio. Esta ficha presenta nuestro desarrollo y su evolución; no atribuye a Karpeztec la marca del cliente. Nuestra oferta propia para otros negocios es [Microapps Karpeztec](microapps.md).
+**Bloom es un producto desarrollado por Karpeztec y en operación para un cliente.** Bloom es la marca de ese negocio. Esta ficha presenta nuestro desarrollo y su evolución; no atribuye a Karpeztec la marca del cliente. Nuestra oferta propia para otros negocios es [Software de gestión Karpeztec](microapps.md).
 
 [← Portafolio](../README.md)
 
@@ -31,7 +31,7 @@ Stack: Next.js 14, React, TypeScript y Tailwind; FastAPI y SQLite. El código, l
 
 El personal organiza las citas y registra los servicios realizados. Las ventas de productos y los abonos quedan en Tienda; los gastos y las comisiones se revisan junto al balance diario y mensual. Esta es una descripción de funciones del producto, no una medición de ahorro ni una demostración de resultados comerciales.
 
-**Uso actual:** un salón real, confirmado por Carlos Padilla. No se ha publicado una cifra de ingresos, usuarios activos ni licencias pagadas. **Oferta propia:** Microapps Karpeztec, con identidad y alcance acordados para cada negocio. Se preparan Single y Enterprise; no se ofrece la marca del cliente ni se presume una licencia de su producto.
+**Uso actual:** un salón real, confirmado por Carlos Padilla. No se ha publicado una cifra de ingresos, usuarios activos ni licencias pagadas. **Oferta propia:** Software de gestión Karpeztec, con identidad y alcance acordados para cada negocio. Se preparan Single y Enterprise; no se ofrece la marca del cliente ni se presume una licencia de su producto.
 
 **Desarrollador:** Karpeztec, Carlos Padilla, Cali, Colombia. Operaciones desde marzo de 2025. Inscripción de Karpeztec S.A.S. en preparación; matrícula y constitución legal pendientes. [Web corporativa](https://karpeztec.com/).
 

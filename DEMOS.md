@@ -1,6 +1,6 @@
 # Demostraciones de Karpeztec
 
-[← Portafolio](README.md) · [Ver en la web](https://karpeztec.com/#demostraciones) · [Microapps y planes](projects/microapps.md)
+[← Portafolio](README.md) · [Ver en la web](https://karpeztec.com/#demostraciones) · [Soluciones y planes](projects/microapps.md)
 
 Esta vitrina separa nuestro desarrollo en operación de los proyectos y funciones en pruebas. No contiene código privado, datos operativos, claves ni un acceso libre al negocio del cliente.
 
