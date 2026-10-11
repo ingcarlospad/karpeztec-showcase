@@ -2,7 +2,7 @@
 
 # Karpeztec · Portafolio de proyectos
 
-Nuestra oferta propia es **Microapps Karpeztec: aplicaciones adaptables para negocios**. **Bloom es la marca de un cliente**, cuyo software desarrollamos y presentamos como caso de trabajo en funcionamiento. Operamos desde Cali, Valle del Cauca, Colombia. Fundador: **Carlos Padilla**. Karpeztec comenzó a operar en **marzo de 2025**, a partir de una idea nacida durante la universidad en 2016. Emprendimiento autofinanciado, sin inversión externa.
+Nuestra oferta propia es **Microapps Karpeztec: aplicaciones adaptables para negocios**. **Bloom es un producto desarrollado por Karpeztec, en operación para un cliente y evolucionando hacia un asistente con Claude.** Bloom es la marca de ese cliente; el asistente sigue en piloto local. Operamos desde Cali, Valle del Cauca, Colombia. Fundador: **Carlos Padilla**. Karpeztec comenzó a operar en **marzo de 2025**. Emprendimiento autofinanciado, sin inversión externa.
 
 **Web corporativa:** [karpeztec.com](https://karpeztec.com/). **Estado registral:** inscripción como **Karpeztec S.A.S.** en preparación ante la Cámara de Comercio de Cali; la matrícula y constitución legal no están completadas. Marzo de 2025 es el inicio operativo, no una fecha de registro jurídico.
 
@@ -11,7 +11,7 @@ Esta presentación reúne productos, prototipos y evidencia de desarrollo. El c�
 | Proyecto | Propósito | Estado al 11 de octubre de 2026 |
 | --- | --- | --- |
 | [Microapps Karpeztec](projects/microapps.md) | Oferta adaptable para un negocio (Single) y propuesta para varias sedes (Enterprise) | Oferta comercial en preparación; tarifas por cotización. |
-| [Bloom · caso de cliente](projects/bloom.md) | Gestión de SPA y peluquería: agenda, ingresos, tienda y comisiones | En uso en un salón real, según Carlos Padilla. Asistente Claude en pruebas locales. |
+| [Bloom · nuestro desarrollo en operación](projects/bloom.md) | Gestión de SPA y peluquería: agenda, ingresos, tienda y comisiones | En uso en un salón real, según Carlos Padilla. Asistente Claude en pruebas locales. |
 | [Karpez IA](projects/karpez-ia.md) | Entorno para trabajar con modelos locales y adaptadores de proveedores | En desarrollo; integración comercial y validación de proveedores pendientes. |
 | [CasaPyG](projects/casapyg.md) | Monitorización y automatización del hogar | Prototipo; integración y validación con dispositivos pendientes. |
 
@@ -57,7 +57,7 @@ Las demostraciones utilizan composiciones distintas: Bloom muestra una agenda po
 
 El uso actual en **un salón real** fue confirmado por Carlos Padilla. Las muestras de este repositorio son de un entorno local con datos ficticios; no prueban ingresos, clientes de pago ni resultados comerciales. La validación con la API real de Claude está pendiente.
 
-La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. Los precios y la disponibilidad de la versión para varios negocios siguen por definir; no se presenta como una función ya desplegada.
+La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. Las tarifas propuestas están en la [ficha de microapps](projects/microapps.md); la disponibilidad de Enterprise sigue pendiente; no se presenta como una función ya desplegada.
 
 ## Contacto
 
@@ -71,3 +71,5 @@ Para conocer Bloom, solicita una presentación por el correo empresarial. La vit
 Karpeztec is a self-funded software venture based in Cali, Colombia, operating since March 2025. Our own offering is Microapps Karpeztec. Bloom is a client brand and a working client application used in one salon, as confirmed by Carlos Padilla. Its admin-only, read-only Claude integration has been implemented locally and tested with simulated responses and fictional data; live API validation and deployment are pending. Registration as Karpeztec S.A.S. is being prepared and is not complete. Karpez IA and CasaPyG are development projects. This repository contains presentation materials, not product source code.
 
 © 2026 Carlos Padilla / Karpeztec. Derechos reservados. Véase [aviso de uso](NOTICE.md). Esta vitrina no implica asociación, certificación ni aprobación por Anthropic o por otros proveedores.
+
+**Producto en operación:** [acceso de usuarios autorizados a Bloom](https://app.bloomsalonypeluqueria.com/login?next=%2F). La evolución con Claude se describe en la ficha, separando el software operativo del piloto local.

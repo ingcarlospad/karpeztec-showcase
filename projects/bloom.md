@@ -1,6 +1,6 @@
-# Bloom · Caso de cliente: SPA y peluquería
+# Bloom · Producto desarrollado por Karpeztec, en operación
 
-**Bloom es la marca de un cliente, no una marca propia ni el producto insignia de Karpeztec.** Esta ficha presenta una aplicación desarrollada para ese negocio y en funcionamiento. Nuestra oferta propia para otros negocios es [Microapps Karpeztec](microapps.md).
+**Bloom es un producto desarrollado por Karpeztec y en operación para un cliente.** Bloom es la marca de ese negocio. Esta ficha presenta nuestro desarrollo y su evolución; no atribuye a Karpeztec la marca del cliente. Nuestra oferta propia para otros negocios es [Microapps Karpeztec](microapps.md).
 
 [← Portafolio](../README.md)
 
@@ -46,3 +46,9 @@ Capturas: [escritorio](../assets/bloom-claude-desktop.png) y [móvil](../assets/
 Validación local: 13 pruebas automatizadas aprobadas, revisión de tipos TypeScript, ESLint e inspección visual en escritorio y móvil. Se cubrieron autenticación, permisos, denegación de herramientas, disponibilidad, privacidad de resultados, reintentos y límites por usuario. Esta evidencia no demuestra rendimiento ni precisión del modelo real.
 
 Siguiente paso: configurar una clave privada y créditos de API, seleccionar un modelo vigente, evaluar respuestas reales y desplegar un piloto controlado. Los límites e idempotencia actuales viven en memoria de un proceso; requieren adaptación antes de escalar a varios procesos.
+
+## Producto en operación y evolución
+
+[Acceso a Bloom en operación](https://app.bloomsalonypeluqueria.com/login?next=%2F). Requiere una cuenta autorizada del negocio; no es una demo pública con acceso libre.
+
+Carlos sitúa la evolución hacia gestión asistida por IA como concepto del producto y propuesta al cliente. Claude se presenta como una integración en evolución: existe piloto local de consulta con simulación; la API real y el despliegue siguen pendientes. No se afirma que Claude haya operado desde el primer día ni que el cliente haya aprobado o contratado el piloto.
