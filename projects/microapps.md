@@ -34,3 +34,22 @@ Contacto: [ingpadceo@karpeztec.com](mailto:ingpadceo@karpeztec.com).
 Tarifas propuestas del plan comercial, no contratos vigentes. Cupos extra, implementación, impuestos aplicables y consumo adicional de WhatsApp/IA se detallan antes de contratar. No se ofrece mensajería ni IA ilimitada. Tres sedes y hasta 15 profesionales darían una mensualidad propuesta de $250.000, antes de adicionales.
 
 El modelo de negocio contempla suscripción administrada e instalaciones privadas por alcance. Una instalación privada no implica entregar el código ni ceder derechos; condiciones y licencias requieren definición. La arquitectura Rust/PostgreSQL/React es una propuesta para nuevos productos, no el stack de Bloom ni una migración anunciada.
+
+## Expansión a otros negocios
+
+Empezamos con KarpezBarber y KarpezBeauty para salones, barberías y SPA. La oferta está orientada a distintos sectores; cada solución tendrá alcance propio y se validará antes de anunciar disponibilidad. Los precios Single/Enterprise publicados corresponden a esta oferta inicial, no a todo el catálogo.
+
+| Línea prevista | Área | Negocios y propósito |
+| --- | --- | --- |
+| KarpezCitas | Reservas y atención | Salones, estética y profesionales independientes. |
+| KarpezStock | Inventario | Tiendas, ferreterías, repuestos y distribuidores. |
+| KarpezVentas | Gestión comercial | Cotizaciones y seguimiento de ventas por mensajería. |
+| KarpezService | Servicios técnicos | Órdenes de trabajo, evidencias y garantías para instalaciones y mantenimiento. |
+| KarpezDocs AI | Documentos | Organización y extracción de información para oficinas y contadores. |
+| KarpezMenú | Restaurantes | Carta digital, pedidos y seguimiento de cocina. |
+| KarpezPropiedades | Inmobiliarias | Inmuebles, vencimientos y solicitudes de mantenimiento. |
+| KarpezCobros | Cartera | Seguimiento de saldos, vencimientos y conciliación. |
+| KarpezTurnos | Equipos de trabajo | Programación de turnos y asistencia para comercios y operaciones. |
+| KarpezFlow AI | Automatización | Flujos de formularios, correos, reportes y aprobaciones. |
+
+[Ver sectores en la web](https://karpeztec.com/#sectores). Catálogo de planificación; no acredita diez productos terminados.

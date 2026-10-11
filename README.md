@@ -60,6 +60,10 @@ El uso actual en **un salón real** fue confirmado por Carlos Padilla. Las muest
 
 La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. Las tarifas propuestas están en la [ficha de soluciones](projects/microapps.md); la disponibilidad de Enterprise sigue pendiente; no se presenta como una función ya desplegada.
 
+## Sectores
+
+Empezamos con salones y barberías y planeamos ampliar la oferta a comercio, servicios técnicos, restaurantes, inmobiliarias y administración. [Catálogo de expansión](projects/microapps.md#expansión-a-otros-negocios) · [Sectores en la web](https://karpeztec.com/#sectores). Las líneas previstas se validarán por etapas, sin presentarlas como productos disponibles.
+
 ## Oferta comercial
 
 [Soluciones y tarifas propuestas](projects/microapps.md): Single desde $60.000 COP/mes; Enterprise desde $200.000, dos sedes y hasta 15 profesionales en total. Tarifas de planificación sujetas a cotización; Enterprise todavía no está desplegado. El modelo también contempla instalaciones privadas por alcance. Las demos no acreditan funciones de producción ni resultados comerciales.
