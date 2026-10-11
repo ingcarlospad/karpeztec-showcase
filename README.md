@@ -15,7 +15,7 @@ Esta presentación reúne productos, prototipos y evidencia de desarrollo. El c�
 | [Karpez IA](projects/karpez-ia.md) | Entorno para trabajar con modelos locales y adaptadores de proveedores | En desarrollo; integración comercial y validación de proveedores pendientes. |
 | [CasaPyG](projects/casapyg.md) | Monitorización y automatización del hogar | Prototipo; integración y validación con dispositivos pendientes. |
 
-## Bloom: caso de cliente y piloto de consulta
+## Bloom en operación y evolución hacia Claude
 
 Bloom combina **Next.js, TypeScript, FastAPI y SQLite** para organizar las operaciones del salón. Estamos preparando una integración con Claude para consultar servicios y precios, productos y disponibilidad de agenda mediante herramientas controladas por permisos.
 
@@ -31,21 +31,22 @@ La integración está implementada localmente para administradores y en modo de 
 
 Las capturas corresponden a la interfaz implementada, no a una demostración de uso real de la API. Se verificaron permisos, restricciones de herramientas, idempotencia, límites de uso y omisión de nombres y teléfonos de clientes en resultados de herramientas; 13 pruebas automatizadas, TypeScript y ESLint aprobados.
 
-## Demostraciones animadas
+## Interacción con IA
 
-[Ver los tres recorridos en la web](https://karpeztec.com/#demostraciones). Cada video dura 32 segundos e incluye un rótulo permanente de simulación, datos ficticios y respuestas preparadas. Son interfaces ilustrativas, no grabaciones de ejecución real de los productos, de Claude o de dispositivos. Se generaron con un script propio, sin consumir créditos ni publicar código privado.
+[Ver las demostraciones](https://karpeztec.com/#demostraciones) · [Índice de proyectos y capturas](DEMOS.md)
 
-| Proyecto | Video | GIF | Recorrido |
-| --- | --- | --- | --- |
-| Bloom | [MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif?v=20261011-layouts2) | Agenda, catálogo, stock y límites del asistente de consulta. |
-| Karpez IA | [MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif?v=20261011-layouts2) | Elección de modo, contexto ficticio y revisión de una acción propuesta. |
-| CasaPyG | [MP4](https://karpeztec.com/assets/demos/casapyg-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/casapyg-demo.gif?v=20261011-layouts2) | Métricas de ejemplo, evento multimedia y escena conceptual con confirmación. |
+| Proyecto | Recorrido ilustrativo | Estado |
+| --- | --- | --- |
+| [Bloom](projects/bloom.md) | Consultar servicios, productos y disponibilidad con Claude. | Producto en operación; asistente en piloto local. |
+| [Karpez IA](projects/karpez-ia.md) | Trabajar con contexto, documentos y acciones propuestas. | En desarrollo. |
+| [CasaPyG](projects/casapyg.md) | Consultar sensores y revisar una escena antes de confirmarla. | Prototipo. |
 
-## Dirección de desarrollo de los productos
+## Diseño y dirección de desarrollo
 
 Las demostraciones utilizan composiciones distintas: Bloom muestra una agenda por profesional y módulos; Karpez IA, conversaciones y un documento; CasaPyG, sensores y habitaciones. Referencias de diseño: [Fresha](https://www.fresha.com/for-business/features/scheduling), [LM Studio](https://lmstudio.ai/docs/app/basics/chat) y [Home Assistant](https://www.home-assistant.io/blog/2024/03/04/dashboard-chapter-1/). Se tomaron patrones de organización, sin copiar capturas ni anunciar equivalencia funcional.
 
-- Bloom: validar un piloto con Claude antes de ampliar a atención a clientes adultos y más salones.
+- Microapps: preparar KarpezBarber/KarpezBeauty con modalidades Single y Enterprise.
+- Bloom: nuestro desarrollo en operación para un cliente; validar el piloto con Claude antes de anunciarlo en producción.
 - Karpez IA: consolidar el entorno local y comprobar cada adaptador de proveedor.
 - CasaPyG: validar escenarios de monitorización y automatización con dispositivos reales.
 
@@ -58,6 +59,10 @@ Las demostraciones utilizan composiciones distintas: Bloom muestra una agenda po
 El uso actual en **un salón real** fue confirmado por Carlos Padilla. Las muestras de este repositorio son de un entorno local con datos ficticios; no prueban ingresos, clientes de pago ni resultados comerciales. La validación con la API real de Claude está pendiente.
 
 La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. Las tarifas propuestas están en la [ficha de microapps](projects/microapps.md); la disponibilidad de Enterprise sigue pendiente; no se presenta como una función ya desplegada.
+
+## Oferta comercial
+
+[Microapps y tarifas propuestas](projects/microapps.md): Single desde $60.000 COP/mes; Enterprise desde $200.000, dos sedes y hasta 15 profesionales en total. Tarifas de planificación sujetas a cotización; Enterprise todavía no está desplegado. El modelo también contempla instalaciones privadas por alcance. Las demos no acreditan funciones de producción ni resultados comerciales.
 
 ## Contacto
 

@@ -2,11 +2,11 @@
 
 [← Portafolio](../README.md)
 
-## Recorrido animado
+## Interacción con IA
 
-[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4?v=20261011-layouts2) · [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif?v=20261011-layouts2)
+[Ver en la web](https://karpeztec.com/#demostraciones)
 
-Animación conceptual de 32 segundos: elegir un modo, proporcionar contexto ficticio, revisar una respuesta y proponer una herramienta. Respuestas preparadas e interfaz ilustrativa; no ejecuta modelos ni lee archivos del usuario y no acredita adaptadores validados.
+Recorrido ilustrativo: elegir un modo de trabajo, aportar contexto y revisar una respuesta o acción propuesta. Karpez IA está en desarrollo.
 
 **Estado: en desarrollo.** Proyecto orientado a trabajar con modelos locales y adaptar proveedores externos. No se presenta como un modelo fundacional propio ni como un producto comercial terminado.
 

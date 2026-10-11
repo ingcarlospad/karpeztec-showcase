@@ -4,11 +4,11 @@
 
 [← Portafolio](../README.md)
 
-## Recorrido animado
+## Interacción con IA
 
-[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4?v=20261011-layouts2) · [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif?v=20261011-layouts2)
+[Ver en la web](https://karpeztec.com/#demostraciones)
 
-Animación ilustrativa de 32 segundos: agenda, servicios, stock y límites del asistente. Datos ficticios y respuestas preparadas, sin ejecutar Claude. No es una grabación de la aplicación de producción; las capturas reales del piloto local se distinguen por separado en esta ficha.
+Recorrido ilustrativo: consultar agenda, servicios y productos mediante un asistente con Claude. Bloom está en operación; la integración con Claude sigue en piloto local.
 
 **Estado:** software utilizado en un salón real, según confirmación de Carlos Padilla. La integración de Claude es un piloto local, pendiente de validación real y despliegue.
 
