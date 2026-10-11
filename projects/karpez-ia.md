@@ -4,7 +4,7 @@
 
 ## Recorrido animado
 
-[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4) · [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif)
+[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4?v=20261011-layouts2) · [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif?v=20261011-layouts2)
 
 Animación conceptual de 32 segundos: elegir un modo, proporcionar contexto ficticio, revisar una respuesta y proponer una herramienta. Respuestas preparadas e interfaz ilustrativa; no ejecuta modelos ni lee archivos del usuario y no acredita adaptadores validados.
 

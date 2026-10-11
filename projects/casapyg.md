@@ -4,7 +4,7 @@
 
 ## Recorrido animado
 
-[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/casapyg-demo.mp4) · [GIF](https://karpeztec.com/assets/demos/casapyg-demo.gif)
+[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/casapyg-demo.mp4?v=20261011-layouts2) · [GIF](https://karpeztec.com/assets/demos/casapyg-demo.gif?v=20261011-layouts2)
 
 Animación conceptual de 32 segundos: métricas ficticias, un evento multimedia y una propuesta de iluminación con confirmación ilustrativa. No representa telemetría real, ejecución de un modelo ni control de luces. La asistencia con IA y la actuación sobre dispositivos son objetivos de desarrollo y validación.
 

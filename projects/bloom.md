@@ -4,7 +4,7 @@
 
 ## Recorrido animado
 
-[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4) · [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif)
+[Ver en la web](https://karpeztec.com/#demostraciones) · [Video MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4?v=20261011-layouts2) · [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif?v=20261011-layouts2)
 
 Animación ilustrativa de 32 segundos: agenda, servicios, stock y límites del asistente. Datos ficticios y respuestas preparadas, sin ejecutar Claude. No es una grabación de la aplicación de producción; las capturas reales del piloto local se distinguen por separado en esta ficha.
 

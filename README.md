@@ -36,11 +36,13 @@ Las capturas corresponden a la interfaz implementada, no a una demostración de 
 
 | Proyecto | Video | GIF | Recorrido |
 | --- | --- | --- | --- |
-| Bloom | [MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4) | [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif) | Agenda, catálogo, stock y límites del asistente de consulta. |
-| Karpez IA | [MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4) | [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif) | Elección de modo, contexto ficticio y revisión de una acción propuesta. |
-| CasaPyG | [MP4](https://karpeztec.com/assets/demos/casapyg-demo.mp4) | [GIF](https://karpeztec.com/assets/demos/casapyg-demo.gif) | Métricas de ejemplo, evento multimedia y escena conceptual con confirmación. |
+| Bloom | [MP4](https://karpeztec.com/assets/demos/bloom-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/bloom-demo.gif?v=20261011-layouts2) | Agenda, catálogo, stock y límites del asistente de consulta. |
+| Karpez IA | [MP4](https://karpeztec.com/assets/demos/karpez-ia-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/karpez-ia-demo.gif?v=20261011-layouts2) | Elección de modo, contexto ficticio y revisión de una acción propuesta. |
+| CasaPyG | [MP4](https://karpeztec.com/assets/demos/casapyg-demo.mp4?v=20261011-layouts2) | [GIF](https://karpeztec.com/assets/demos/casapyg-demo.gif?v=20261011-layouts2) | Métricas de ejemplo, evento multimedia y escena conceptual con confirmación. |
 
 ## Dirección de desarrollo de los productos
+
+Las demostraciones utilizan composiciones distintas: Bloom muestra una agenda por profesional y módulos; Karpez IA, conversaciones y un documento; CasaPyG, sensores y habitaciones. Referencias de diseño: [Fresha](https://www.fresha.com/for-business/features/scheduling), [LM Studio](https://lmstudio.ai/docs/app/basics/chat) y [Home Assistant](https://www.home-assistant.io/blog/2024/03/04/dashboard-chapter-1/). Se tomaron patrones de organización, sin copiar capturas ni anunciar equivalencia funcional.
 
 - Bloom: validar un piloto con Claude antes de ampliar a atención a clientes adultos y más salones.
 - Karpez IA: consolidar el entorno local y comprobar cada adaptador de proveedor.
