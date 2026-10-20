@@ -58,7 +58,7 @@ Las demostraciones utilizan composiciones distintas: Bloom muestra una agenda po
 
 El uso actual en **un salón real** fue confirmado por Carlos Padilla. Las muestras de este repositorio son de un entorno local con datos ficticios; no prueban ingresos, clientes de pago ni resultados comerciales. La validación con la API real de Claude está pendiente.
 
-La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. Las tarifas propuestas están en la [ficha de soluciones](projects/microapps.md); la disponibilidad de Enterprise sigue pendiente; no se presenta como una función ya desplegada.
+La dirección comercial propuesta contempla una oferta por negocio y, posteriormente, una oferta para varias sedes, incluidos salones pequeños y barberías. El alcance previsto está en la [ficha de soluciones](projects/microapps.md); la disponibilidad de Enterprise sigue pendiente; no se presenta como una función ya desplegada.
 
 ## Sectores
 
@@ -66,12 +66,12 @@ Empezamos con salones y barberías y planeamos ampliar la oferta a comercio, ser
 
 ## Oferta comercial
 
-[Soluciones y tarifas propuestas](projects/microapps.md): Single desde $60.000 COP/mes; Enterprise desde $200.000, dos sedes y hasta 15 profesionales en total. Tarifas de planificación sujetas a cotización; Enterprise todavía no está desplegado. El modelo también contempla instalaciones privadas por alcance. Las demos no acreditan funciones de producción ni resultados comerciales.
+Pronto tendremos planes mensuales para nuestros aliados que incluirán nuestras suites y soporte. Publicaremos sus características y condiciones cuando estén disponibles. Consulte la [oferta prevista](projects/microapps.md); Enterprise sigue en desarrollo y las instalaciones privadas se cotizan según el alcance.
 
 ## Contacto
 
 **Carlos Padilla · Fundador de Karpeztec**  
-[ingpadceo@karpeztec.com](mailto:ingpadceo@karpeztec.com) · [LinkedIn](https://www.linkedin.com/in/carlos-padilla-6a4a4a162/)
+[ingpadceo@karpeztec.com](mailto:ingpadceo@karpeztec.com) · Teléfono empresarial: +57 318 946 5700 · [LinkedIn](https://www.linkedin.com/in/carlos-padilla-6a4a4a162/)
 
 Para conocer Bloom, solicita una presentación por el correo empresarial. La vitrina pública muestra el producto con datos ficticios; el acceso operativo se entrega a usuarios autorizados por separado.
 

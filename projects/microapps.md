@@ -21,23 +21,15 @@ El piloto de consulta con Claude está implementado localmente y probado con sim
 
 Contacto: [ingpadceo@karpeztec.com](mailto:ingpadceo@karpeztec.com).
 
-## Tarifas de planificación · COP mensuales
+## Próximamente · Planes para aliados
 
-| Modalidad | Cupo propuesto | Mensualidad propuesta |
-| --- | --- | --- |
-| Single | Una sede, 1–3 profesionales | $60.000 |
-| Single | Una sede, 4–8 profesionales | $80.000 |
-| Single | Una sede, 9–15 profesionales | $150.000 |
-| Enterprise | Dos sedes, hasta 15 profesionales en total | Desde $200.000 |
-| Sede adicional Enterprise | Cupo global contratado sin aumento automático | $50.000 adicionales |
-
-Tarifas propuestas del plan comercial, no contratos vigentes. Cupos extra, implementación, impuestos aplicables y consumo adicional de WhatsApp/IA se detallan antes de contratar. No se ofrece mensajería ni IA ilimitada. Tres sedes y hasta 15 profesionales darían una mensualidad propuesta de $250.000, antes de adicionales.
+Pronto tendremos planes mensuales para nuestros aliados que incluirán nuestras suites y soporte. Publicaremos sus características y condiciones cuando estén disponibles. La implementación y los servicios a medida se cotizan según el alcance de cada proyecto.
 
 El modelo de negocio contempla suscripción administrada e instalaciones privadas por alcance. Una instalación privada no implica entregar el código ni ceder derechos; condiciones y licencias requieren definición. La arquitectura Rust/PostgreSQL/React es una propuesta para nuevos productos, no el stack de Bloom ni una migración anunciada.
 
 ## Expansión a otros negocios
 
-Empezamos con KarpezBarber y KarpezBeauty para salones, barberías y SPA. La oferta está orientada a distintos sectores; cada solución tendrá alcance propio y se validará antes de anunciar disponibilidad. Los precios Single/Enterprise publicados corresponden a esta oferta inicial, no a todo el catálogo.
+Empezamos con KarpezBarber y KarpezBeauty para salones, barberías y SPA. La oferta está orientada a distintos sectores; cada solución tendrá alcance propio y se validará antes de anunciar disponibilidad. Las modalidades previstas se definirán por solución y por alcance.
 
 | Línea prevista | Área | Negocios y propósito |
 | --- | --- | --- |
