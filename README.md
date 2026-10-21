@@ -2,6 +2,16 @@
 
 # Karpeztec · Portafolio de proyectos
 
+## Construir con Codex · evidencia al 21 de octubre de 2026
+
+**Bloom** aporta el caso de software en uso, según Carlos; **KarpezAI** aporta el proyecto técnico en desarrollo. Carlos declara que Codex escribió el código de Bloom mientras él dirigió, probó y corrigió el producto. No se atribuye todo KarpezAI a Codex.
+
+- [Cómo trabaja Carlos con Codex y límites de la evidencia](docs/BUILDING-WITH-CODEX.md).
+- [Bloom: arquitectura, privacidad y guion de demo](docs/BLOOM-ARCHITECTURE.md).
+- [KarpezAI: repositorio público de documentación, arquitectura y ejemplo reproducible](https://github.com/ingcarlospad/karpezai-public). El código del runtime sigue privado; la demo educativa usa adaptadores falsos.
+
+Los resultados de pruebas del piloto citados más abajo son registros históricos del showcase; no se volvieron a ejecutar en esta actualización. No se anuncian métricas comerciales ni selección o respaldo por OpenAI.
+
 Nuestra oferta propia es **Software de gestión Karpeztec: aplicaciones adaptables para negocios**. **Bloom es un producto desarrollado por Karpeztec, en operación para un cliente y evolucionando hacia un asistente con Claude.** Bloom es la marca de ese cliente; el asistente sigue en piloto local. Operamos desde Cali, Valle del Cauca, Colombia. Fundador: **Carlos Padilla**. Karpeztec comenzó a operar en **marzo de 2025**. Emprendimiento autofinanciado, sin inversión externa.
 
 **Web corporativa:** [karpeztec.com](https://karpeztec.com/). **Estado registral:** inscripción como **Karpeztec S.A.S.** en preparación ante la Cámara de Comercio de Cali; la matrícula y constitución legal no están completadas. Marzo de 2025 es el inicio operativo, no una fecha de registro jurídico.

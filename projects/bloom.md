@@ -4,6 +4,8 @@
 
 [← Portafolio](../README.md)
 
+[Arquitectura y límites de publicación](../docs/BLOOM-ARCHITECTURE.md) · [Dirección del desarrollo con Codex](../docs/BUILDING-WITH-CODEX.md). Las pruebas citadas en esta ficha son resultados históricos reportados; no se reejecutaron el 21 de octubre de 2026.
+
 ## Interacción con IA
 
 [Ver en la web](https://karpeztec.com/#demostraciones)

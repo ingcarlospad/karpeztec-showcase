@@ -2,6 +2,8 @@
 
 [← Portafolio](../README.md)
 
+[Repositorio técnico público: arquitectura, decisiones, estado y demo sintética](https://github.com/ingcarlospad/karpezai-public). El repositorio privado de implementación conserva su código e historial. El material público explica qué fue observado y qué queda sin verificar.
+
 ## Interacción con IA
 
 [Ver en la web](https://karpeztec.com/#demostraciones)
