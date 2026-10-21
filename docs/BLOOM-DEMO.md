@@ -1,6 +1,8 @@
 # Bloom · Demostración con la aplicación real y datos ficticios
 
-Fecha: 21 de octubre de 2026. Estado: recorrido real de la copia local verificado y capturado; video continuo con narración aún no realizado.
+Fecha: 21 de octubre de 2026. Estado: recorrido real de la copia local verificado y capturado, con video comentado de esas capturas. No se presenta como una grabación continua.
+
+[Ver o descargar el video comentado de 75 segundos](../assets/videos/Bloom-demo-comentada.mp4) · [Texto completo de la narración](BLOOM-VIDEO-GUION.md). La voz es sintética y está identificada; no es la voz ni la presentación personal de Carlos. Las capturas corresponden a las operaciones reales descritas abajo, sobre datos inventados.
 
 ## Recorrido en seis capturas reales
 

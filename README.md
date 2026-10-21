@@ -10,6 +10,8 @@
 - [Bloom: arquitectura, privacidad y guion de demo](docs/BLOOM-ARCHITECTURE.md).
 - [KarpezAI: arquitectura y componente real de KarpezVoz con ocho pruebas reproducibles](https://github.com/ingcarlospad/karpezai-public/tree/main/examples/karpezvoz). El runtime principal sigue privado; la muestra de voz usa niveles de entrada sintéticos.
 - [Bloom: demo real en seis capturas, datos ficticios y verificaciones](docs/BLOOM-DEMO.md). Cita creada desde la interfaz, disponibilidad, ingresos y reporte comprobados en una copia aislada; trece pruebas del piloto aprobadas con Claude simulado.
+- [Video comentado de Bloom, 75 segundos](assets/videos/Bloom-demo-comentada.mp4): montaje de las capturas reales, datos inventados y narración sintética identificada; no es grabación continua ni la voz de Carlos.
+- [KarpezVoz: video de una sesión real con entrada sintética](https://github.com/ingcarlospad/karpezai-public/blob/main/docs/KARPEZVOZ-AUDIO-DEMO.md), con Whisper, modelo local y Piper reales, y resultados y límites de ambos intentos.
 
 Las trece pruebas del piloto se volvieron a ejecutar el 21 de octubre de 2026 con SQLite temporal y Claude simulado. Se revisó visualmente el nuevo recorrido del producto con datos ficticios; TypeScript, ESLint y la inspección visual del piloto de IA son comprobaciones históricas que no se repitieron. No se anuncian métricas comerciales ni selección o respaldo por OpenAI.
 
