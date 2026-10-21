@@ -4,13 +4,18 @@
 
 ## Construir con Codex · evidencia al 21 de octubre de 2026
 
-**Bloom** aporta el caso de software en uso, según Carlos; **KarpezAI** aporta el proyecto técnico en desarrollo. Carlos declara que Codex escribió el código de Bloom mientras él dirigió, probó y corrigió el producto. No se atribuye todo KarpezAI a Codex.
+**Bloom** aporta el caso de software en uso, según Carlos; **KarpezAI** aporta el proyecto técnico en desarrollo. Carlos confirma que construyó Bloom enteramente con Codex y ChatGPT mediante la extensión Roo Code, mientras él dirigía, probaba y corregía el producto. Esta atribución es su declaración, sin reparto porcentual entre herramientas. No se atribuye todo KarpezAI a Codex.
 
 - [Cómo trabaja Carlos con Codex y límites de la evidencia](docs/BUILDING-WITH-CODEX.md).
 - [Bloom: arquitectura, privacidad y guion de demo](docs/BLOOM-ARCHITECTURE.md).
-- [KarpezAI: repositorio público de documentación, arquitectura y ejemplo reproducible](https://github.com/ingcarlospad/karpezai-public). El código del runtime sigue privado; la demo educativa usa adaptadores falsos.
+- [KarpezAI: arquitectura y componente real de KarpezVoz con ocho pruebas reproducibles](https://github.com/ingcarlospad/karpezai-public/tree/main/examples/karpezvoz). El runtime principal sigue privado; la muestra de voz usa niveles de entrada sintéticos.
+- [Bloom: demo real en seis capturas, datos ficticios y verificaciones](docs/BLOOM-DEMO.md). Cita creada desde la interfaz, disponibilidad, ingresos y reporte comprobados en una copia aislada; trece pruebas del piloto aprobadas con Claude simulado.
 
-Los resultados de pruebas del piloto citados más abajo son registros históricos del showcase; no se volvieron a ejecutar en esta actualización. No se anuncian métricas comerciales ni selección o respaldo por OpenAI.
+Las trece pruebas del piloto se volvieron a ejecutar el 21 de octubre de 2026 con SQLite temporal y Claude simulado. Se revisó visualmente el nuevo recorrido del producto con datos ficticios; TypeScript, ESLint y la inspección visual del piloto de IA son comprobaciones históricas que no se repitieron. No se anuncian métricas comerciales ni selección o respaldo por OpenAI.
+
+![Cita ficticia creada en la interfaz real de Bloom; captura del 21 de octubre de 2026](assets/bloom-demo-20261021/03-cita-creada.jpg)
+
+Esta captura muestra una operación real de la copia local con datos inventados; no es una sesión del negocio ni una respuesta del asistente IA. [Ver el recorrido y sus límites](docs/BLOOM-DEMO.md).
 
 Nuestra oferta propia es **Software de gestión Karpeztec: aplicaciones adaptables para negocios**. **Bloom es un producto desarrollado por Karpeztec, en operación para un cliente y evolucionando hacia un asistente con Claude.** Bloom es la marca de ese cliente; el asistente sigue en piloto local. Operamos desde Cali, Valle del Cauca, Colombia. Fundador: **Carlos Padilla**. Karpeztec comenzó a operar en **marzo de 2025**. Emprendimiento autofinanciado, sin inversión externa.
 

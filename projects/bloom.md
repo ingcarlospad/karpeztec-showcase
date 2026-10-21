@@ -4,7 +4,7 @@
 
 [← Portafolio](../README.md)
 
-[Arquitectura y límites de publicación](../docs/BLOOM-ARCHITECTURE.md) · [Dirección del desarrollo con Codex](../docs/BUILDING-WITH-CODEX.md). Las pruebas citadas en esta ficha son resultados históricos reportados; no se reejecutaron el 21 de octubre de 2026.
+[Arquitectura y límites de publicación](../docs/BLOOM-ARCHITECTURE.md) · [Dirección del desarrollo con Codex y ChatGPT mediante Roo Code](../docs/BUILDING-WITH-CODEX.md) · [Demo aislada en seis capturas reales](../docs/BLOOM-DEMO.md). Las trece pruebas del piloto se reejecutaron el 21 de octubre de 2026 con SQLite temporal y Claude simulado. Se verificó visualmente el nuevo recorrido del producto. TypeScript, ESLint e inspección visual del piloto de IA son comprobaciones históricas que no se repitieron.
 
 ## Interacción con IA
 

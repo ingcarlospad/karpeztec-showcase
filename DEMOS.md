@@ -6,6 +6,8 @@ Esta vitrina separa nuestro desarrollo en operación de los proyectos y funcione
 
 ## Bloom — nuestro desarrollo en operación
 
+**Nueva demo del producto:** [recorrido verificado en seis capturas reales, datos ficticios y resultados de backend](docs/BLOOM-DEMO.md). Incluye una cita creada desde la interfaz y el reporte de movimientos inventados. Se ejecutaron trece pruebas reales del piloto con SQLite temporal y Claude simulado. Las imágenes del asistente que aparecen más abajo son anteriores y corresponden al piloto simulado; no son las capturas nuevas del recorrido.
+
 Aplicación desarrollada por Karpeztec para un cliente. Bloom es la marca de ese negocio. Agenda, servicios, inventario, caja y comisiones en un salón real; evolución hacia un asistente con Claude en piloto local.
 
 [Ficha](projects/bloom.md) · [Acceso operativo para usuarios autorizados](https://app.bloomsalonypeluqueria.com/login?next=%2F)
@@ -18,6 +20,8 @@ Recorrido ilustrativo de consulta con Claude. El asistente continúa en piloto l
 [Captura de escritorio](assets/bloom-claude-desktop.png) · [Captura móvil](assets/bloom-claude-mobile.png)
 
 ## Karpez IA — en desarrollo
+
+**Muestra ejecutable de código real:** [detector de fin de turno de KarpezVoz](https://github.com/ingcarlospad/karpezai-public/tree/main/examples/karpezvoz), publicado con procedencia y ocho pruebas. No utiliza micrófono, ASR, LLM ni TTS; procesa secuencias sintéticas con el detector original.
 
 Recorrido conceptual de un entorno de conversaciones, selección de modo y revisión de un documento. No acredita adaptadores comerciales terminados.
 

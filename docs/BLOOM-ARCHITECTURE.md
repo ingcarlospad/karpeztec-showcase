@@ -1,6 +1,6 @@
 # Bloom · Arquitectura y límites de la evidencia
 
-Resumen documental al 21 de octubre de 2026. El producto está en uso en un salón según Carlos. Se consultaron las instrucciones técnicas locales y el manifiesto del frontend; no se accedió a datos del cliente ni se ejecutaron pruebas sobre producción.
+Resumen al 21 de octubre de 2026. El producto está en uso en un salón según Carlos. Se consultaron instrucciones, manifiesto y partes del código local. Se ejecutaron escenarios y las trece pruebas existentes del piloto sobre una copia aislada con datos ficticios; no se accedió a datos del cliente ni se ejecutaron pruebas sobre producción. Véase [alcance de la demo](BLOOM-DEMO.md).
 
 ```mermaid
 flowchart LR
@@ -12,7 +12,7 @@ flowchart LR
 
 La documentación local describe transacciones explícitas, idempotencia para operaciones críticas y permisos por roles. Su presencia documental no constituye una auditoría de seguridad completa. El frontend declara Next.js 14 y React 18.
 
-El asistente Claude es un piloto local separado del estado operativo de Bloom. Las capturas existentes usan datos ficticios y respuestas simuladas; no demuestran llamadas reales a la API ni despliegue del asistente. Las cifras de pruebas citadas previamente en el showcase son evidencia histórica reportada, no pruebas ejecutadas en esta preparación.
+El asistente Claude es un piloto local separado del estado operativo de Bloom. Las capturas existentes usan datos ficticios y respuestas simuladas; no demuestran llamadas reales a la API ni despliegue del asistente. Las trece pruebas del piloto fueron reejecutadas en esta preparación y pasaron con Claude simulado. La demo operativa nueva mantiene el asistente desactivado.
 
 ## Decisión editorial
 
